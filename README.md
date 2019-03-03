@@ -1,2 +1,2 @@
 # DecredESJournal
-Boletín Mensual Decred en Español 
+Traducciones de la Revista Decred en Español 
